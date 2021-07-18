@@ -1,0 +1,41 @@
+name: buckwheat tart
+version: 1.0
+
+crust:
+  ingredients:
+    - buckwheat flour: 240g
+    - butter cold: 120g
+    - sugar brown: 100g
+    - cinnamon ground: 1/4 tsp
+    - lemon oil/extract: 5 drops
+    - egg large: 1
+  steps:
+    - flour, butter, sugar, cinnamon, lemon oil
+      cut in food proccessor untill wet sand texture
+    - add an egg
+    - put into fridge for an hour
+  baking:
+    - temp: 175c
+    - time: 16m
+
+creme:
+  - ingredients:
+    - coconut condensed milk: 120g
+    - buckwheat green coocked: 120g
+    - honey: 55g
+    - lemon juice: 20g
+    - water: 50g
+    - egg yolks large: 2
+    - lemon oil/extract: 3 drops
+    - citrus oil/extract: 3 drops
+  - steps:
+    - mix everything together
+  - baking:
+    - temp: 150c
+    - time: 25m
+
+tasting:
+  - crust:
+    - 
+  - creme:
+    -
