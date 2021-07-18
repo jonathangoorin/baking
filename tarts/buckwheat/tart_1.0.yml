@@ -36,6 +36,24 @@ creme:
 
 tasting:
   - crust:
-    - 
+    - texture: 
+        the doe is very crumbly 
+        it is very dry and sandy, and the buckwheat leaves miniature grains
+    - taste:
+        strong buckwheat taste with notes of cinnamon
   - creme:
-    -
+    - texture:
+        the whole buckwheat grains are prominent with creme inbetween
+    - taste:
+        very lemony and buckwheat
+
+projection:
+  - moisture:
+      the buckwheat absorbs a lot of th water content
+      should add moisture (especially in the crust)
+  - elasticity:
+      should add some binding agent (gluten?) or alike into crust
+  - creme:
+      the whole buckweat texture is disturbing to some people
+      should try brown buckwheat for the creme next time
+      can add more fat (milk butter)
