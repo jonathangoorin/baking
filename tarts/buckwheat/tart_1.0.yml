@@ -1,5 +1,5 @@
-name: buckwheat tart
-version: 1.0
+ig_profile: ibebakingtoo
+tag: buckwheat_tart_1.0
 
 crust:
   ingredients:
@@ -10,11 +10,12 @@ crust:
     - lemon oil/extract: 5 drops
     - egg large: 1
   steps:
-    - flour, butter, sugar, cinnamon, lemon oil
-      cut in food proccessor untill wet sand texture
+    - put flour, butter, sugar, cinnamon, lemon oil
+      in food proccessor and cut untill wet sand texture
     - add an egg
     - put into fridge for an hour
   baking:
+    - form: tart pan 24" (removable)
     - temp: 175c
     - time: 16m
 
@@ -29,7 +30,7 @@ creme:
     - lemon oil/extract: 3 drops
     - citrus oil/extract: 3 drops
   - steps:
-    - mix everything together
+    - mix everything together and pour into tart pan
   - baking:
     - temp: 150c
     - time: 25m
