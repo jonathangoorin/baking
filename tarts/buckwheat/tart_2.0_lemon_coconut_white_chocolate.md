@@ -1,5 +1,5 @@
 # Buckwheat Tart Project
-> ## Buckwheat Tart with coconut and green buckwheat creme
+> ## Buckwheat tart with lemon, coconut and green buckwheat creme, topped with white chocolate
 ![image](./media/tart_2.0_01.jpeg)
 
 1. Crust:
